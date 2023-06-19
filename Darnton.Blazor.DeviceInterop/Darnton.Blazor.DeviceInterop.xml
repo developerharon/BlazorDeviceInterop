@@ -71,7 +71,7 @@
         </member>
         <member name="P:Darnton.Blazor.DeviceInterop.Geolocation.GeolocationPosition.DateTimeOffset">
             <summary>
-            The <see cref="P:Darnton.Blazor.DeviceInterop.Geolocation.GeolocationPosition.DateTimeOffset"/> derived from the Timestamp, in UTC.
+            The <see cref="P:Darnton.Blazor.DeviceInterop.Geolocation.GeolocationPosition.DateTimeOffset"/> derived from the <see cref="P:Darnton.Blazor.DeviceInterop.Geolocation.GeolocationPosition.Timestamp"/>, in UTC.
             </summary>
         </member>
         <member name="T:Darnton.Blazor.DeviceInterop.Geolocation.GeolocationPositionError">
